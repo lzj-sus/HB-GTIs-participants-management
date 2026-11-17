@@ -87,17 +87,6 @@ The system uses five tables:
 - `updrs3_records` — MDS-UPDRS Part III assessments.
 - `family_diary_records` — caregiver diary entries.
 
-## Tests
-
-The regression tests are in `tests/`. To run them:
-
-```r
-source("tests/test_schedule_without_midpoint.R")
-source("tests/test_daily_home_completion.R")
-```
-
-[若用 testthat，可改成：`testthat::test_dir("tests")`]
-
 ## Data privacy
 
 This repository contains no participant-level data, no personal identifiers,
