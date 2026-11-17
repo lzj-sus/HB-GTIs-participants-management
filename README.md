@@ -110,4 +110,4 @@ This project is released under the [MIT License](LICENSE).
 
 ## Contact
 
-[姓名]，[单位] — [邮箱]
+[Louis]，[Shanghai University of Sport] — [luzijun@snnu.edu.cn]
